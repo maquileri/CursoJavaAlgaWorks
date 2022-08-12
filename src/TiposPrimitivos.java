@@ -20,11 +20,11 @@ public class TiposPrimitivos {
 		
 		boolean variavelBoolean = true;
 		
-		/*diferenÁa proincipal do tipo primitivo byte e o tipo normal Byte pode estar em um 
-		estado de ausencia de valor exemplo Byte variavelByte = 1; mas tem casos em programaÁ„o 
-		em linguagens OO esse recurso de ter uma variavel que n„o possui valor È muito interessante
+		/*diferen√ßa principal do tipo primitivo byte e o tipo normal Byte pode estar em um 
+		estado de ausencia de valor exemplo Byte variavelByte = 1; mas tem casos em programa√ß√£o 
+		em linguagens OO esse recurso de ter uma variavel que n√£o possui valor √© muito interessante
 		e como tiro o valor simplesmente colocar null ou seja a varivaelByte tem o valor nulo inclusive 
-		n„o conseguimos fazer nenhuma operaÁ„o matematica com essa variavel no momento que ela n„o 
+		n√£o conseguimos fazer nenhuma opera√ß√£o matematica com essa variavel no momento que ela n√£o 
 		possue valor algum */
 		
 		
